@@ -9,7 +9,6 @@
   -->
   <img align="right" alt="Guti-gif" width="120" src="./assets/Guti-gif.gif"/>
 </div>
-##
 
 <div> 
   <a href="https://www.youtube.com/@dopedprogrammer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
