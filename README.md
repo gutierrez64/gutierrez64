@@ -1,3 +1,4 @@
+<!--
 <div style="display: inline_block"><br>
   <img align="center" alt="Guti-nodejs" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Guti-mysql" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -7,7 +8,7 @@
   <img align="center" alt="Guti-handlebars" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg">
   <img align="right" alt="Guti-gif" width="120" src="./assets/Guti-gif.gif"/>
 </div>
-
+-->
 ##
 
 <div> 
